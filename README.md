@@ -1,12 +1,19 @@
-# React + Vite
+# Nike Clone Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This Nike clone landing page is built for educational purposes only.
 
-Currently, two official plugins are available:
+While making this project, I used components, constants, and sections to keep the code clean, organized, and easy to update with different data.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The goal of this project was to strengthen my knowledge in:
+	•	Tailwind CSS
+	•	Building reusable React components
+	•	Dividing the website into different sections for better structure
 
-## Expanding the ESLint configuration
+# Built With
+	•	React (with Vite)
+	•	Tailwind CSS
+	•	HTML
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Purpose
+
+The purpose of this project was to enhance my skills in building responsive websites using modern frontend technologies. It also helped me understand how to structure projects efficiently and improve code reusability.
